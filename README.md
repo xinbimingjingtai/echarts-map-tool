@@ -1,6 +1,6 @@
 # echarts-map-tool
 
-A tool for [Apache ECharts (incubating)](https://github.com/apache/incubator-echarts) to generate China local geographic map data.
+A tool for [Apache ECharts](https://github.com/apache/echarts) to generate China local geographic map data.
 
 ## Notice
 
